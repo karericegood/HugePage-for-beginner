@@ -5,7 +5,7 @@
 
 1. You can check the hugepage option by this! 
 
-First, you can check that you're using hugepage now like this.(Of course, you will not use that.)
+First, you can check that you're using hugepage now like this.(Of course, you don't have a experience of this, this is just a check)
 
 Enter this command on terminal.
 
