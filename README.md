@@ -94,7 +94,7 @@ you can follow this and use the hugepage malloc.
 Then, compile the blast.cpp like this,
 
 ```jsx
-gcc -o blast - blast.cpp -O0
+g++ -o blast - blast.cpp -O0
 ```
 
 Then, run the file in two ways. 
